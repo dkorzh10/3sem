@@ -9,3 +9,9 @@
    a) if execvp is used, string splitting into "path" and "args" is all you need.
 3. Collect exit codes via waitpid/WEXITSTATUS.
 */
+
+int main()
+{
+
+	return 0;
+}
